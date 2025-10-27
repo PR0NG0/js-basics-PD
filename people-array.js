@@ -3,3 +3,4 @@ const people = [
 
 { name: "Jānis", age:"21", isStudent:"false"}
 ]
+console.log(people)
